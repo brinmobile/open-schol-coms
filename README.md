@@ -1,7 +1,7 @@
 Open Schol Coms
 ===============
 
-OSC is a open, community-driven effort to share information and documentation related to Scholarly Communications within librarianship and beyond. Maybe you're not even sure what Scholarly Communications means? [ARL says](http://www.arl.org/focus-areas/scholarly-communication#.U85yFYBdX5Y) says schol coms is, like:
+OSC is a open, community-driven effort to share information and documentation related to Scholarly Communications within librarianship and beyond. Maybe you're not even sure what Scholarly Communications means? [ARL says](http://www.arl.org/focus-areas/scholarly-communication#.U85yFYBdX5Y) schol coms is, like:
 
 > "the system through which research and other scholarly writings are created, evaluated for quality, disseminated to the scholarly community, and preserved for future use. The system includes both formal means of communication, such as publication in peer-reviewed journals, and informal channels, such as electronic listservs."
 
@@ -20,7 +20,9 @@ Many of us are re-writing existing material already. Many of us are already borr
 
 ## Writing for OSC
 
-All documentation written in [Markdown](http://daringfireball.net/projects/markdown/), please. Make sure to save files with a .md extension. Additionally, if you could separate words in your file names with underscores or dashes and *avoid spaces*, that would be super cool.  
+All documentation written in [Markdown](http://daringfireball.net/projects/markdown/), please. Make sure to save files with a .md extension. Additionally, if you could separate words in your file names with underscores or dashes and *avoid spaces*, that would be super cool.
+
+Also, there's bound to be some national differences if this thing gets any traction. Funding agencies all over the globe are very different. Noting the country of origin (or, within, province or state or whatever) is likely a wise idea. I guess we'll figure that out as we go.  
 
 ## Are You New to Github But Want to Contribute?
 
