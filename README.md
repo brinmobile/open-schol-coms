@@ -30,7 +30,7 @@ Let's learn a thing or two about Git! That's sort of how this all got started in
 
 ## Cough
 
-OSC was started on a muggy summer day in Fredericton, New Brunswick by Scholarly Communications Librarian [Mike Nason](ahemnason.github.io) as he sat around thinking about how cool open access is (it's pretty cool).  
+OSC was started on a muggy summer day in Fredericton, New Brunswick by Scholarly Communications Librarian [Mike Nason](http://ahemnason.github.io) as he sat around thinking about how cool open access is (it's pretty cool).  
 
 ## License
 
