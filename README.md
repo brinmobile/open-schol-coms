@@ -31,7 +31,3 @@ Let's learn a thing or two about Git! That's sort of how this all got started in
 ## Cough
 
 OSC was started on a muggy summer day in Fredericton, New Brunswick by Scholarly Communications Librarian [Mike Nason](http://ahemnason.github.io) as he sat around thinking about how cool open access is (it's pretty cool).  
-
-## License
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
